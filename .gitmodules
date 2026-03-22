@@ -1,0 +1,3 @@
+[submodule "CalcModule"]
+	path = CalcModule
+	url = https://github.com/darvalieva/Variant6-Calc-Module.git
